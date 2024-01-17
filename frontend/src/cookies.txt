@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+askka.qodeinteractive.com	TRUE	/	FALSE	1999999999	yith_wcwl_session_f86e357853ea20af1b9b45f05997472b	%7B%22session_id%22%3A%2203f7b117b195ff1a55ae4cfb744633da%22%2C%22session_expiration%22%3A1703799520%2C%22session_expiring%22%3A1703795920%2C%22cookie_hash%22%3A%2297ed12d6ea3ee005ad7567a274c519b3%22%7D
+askka.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+askka.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_f86e357853ea20af1b9b45f05997472b	b9108bd166f185d98270c8c75f308804%7C%7C1701380329%7C%7C1701376729%7C%7C15e363d3a85907e4f95b99c71b05cc21
+askka.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	d9f674827c7cbabba4a27c80cec768e6
+askka.qodeinteractive.com	TRUE	/	FALSE	1999999999	ppwp_wp_session	7fb9cbd35f0aa48c8af83895ef943623%7C%7C1701233980%7C%7C1701233620
+
